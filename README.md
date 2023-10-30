@@ -1,2 +1,2 @@
-# genetic_algorithm_neural_network_optimization
+# genetic-algorithm-neural-network-optimization
 Genetic algorithm neural network optimization
